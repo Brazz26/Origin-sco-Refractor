@@ -14,4 +14,4 @@ Provide a short description explaining the what, why, and how of your project. U
   !(Screenshot of SEO refractor) (./screenshots/Horiseon-Social-Solution-Services-Inc.png)
 
   ## Link
-  [Link to deploy site](https://Brazz26.github.io/Origin-SEO-Refractor)
+  [Link to deploy site](https://Brazz26.github.io/Origin-sco-Refractor)
